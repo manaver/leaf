@@ -3,6 +3,7 @@
 </script>
 
 <template>
+
 	<div class="p-4 md:w-3/4 md:mx-auto">
         <!-- navigation -->
         <nav class="font-medium flex justify-between">
@@ -152,4 +153,9 @@
             OSH HACKATHON
         </div>
     </footer>
+=======
+	<main>
+
+	</main>
+>>>>>>> fefc7a042919a042343c7c94d333aa3a454d9131
 </template>
